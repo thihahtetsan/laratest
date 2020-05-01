@@ -16,7 +16,7 @@
       <a href="books/create" class="btn btn-success">Add Book</a>
     <thead>
         <tr>
-          <td>ID</td>
+          <td>ID number</td>
           <td>Book Name</td>
           <td>ISBN Number</td>
           <td>Book Price</td>
